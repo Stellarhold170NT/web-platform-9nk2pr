@@ -1,0 +1,28 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  padding: 32px;
+}
+
+.title {
+  font-size: 26px;
+  font-weight: 600;
+  line-height: 1.5;
+}
+
+.desc {
+  margin-top: 20px;
+  font-size: 14px;
+  line-height: 1.8;
+}
+
+.btn {
+  display: inline-block;
+  margin-top: 28px;
+  padding: 10px 24px;
+  border-radius: 2px;
+  font-size: 16px;
+  font-weight: 600;
+  text-decoration: none;
+  color: #fff;
+  background-color: #f8678a;
+}
